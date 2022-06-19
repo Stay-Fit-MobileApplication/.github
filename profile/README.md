@@ -40,7 +40,7 @@ Develop a website/mobile application showcasing the digitalisation in healthcare
       1 BMR<br>
       2 Calorie correction<br>
       3 Body Fat<br>
-- Blog
+- Blog<br>
       Latest news related to health and food is displayed in the blog
 
 
