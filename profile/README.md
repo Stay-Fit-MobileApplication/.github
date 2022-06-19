@@ -5,3 +5,26 @@
 ### The provided google drive contain the apk of our application kindely download and try it
 https://drive.google.com/drive/folders/1QfT3E9KwKsglJRjXGhdZJQvDk_HRmJN3?usp=sharing
 
+
+## Problem Statement
+
+####    Health
+Develop a website/mobile application showcasing the digitalisation in healthcare and providing solutions for a healthy life.
+
+### Solution
+
+### Health is Wealth
+<p>
+  It is always advised that prevention in better than cure .Body fitness is very much important ,since good fitness result in good 
+  health.we came up with an application which help the people to find their body fat .And we provide them with a workout plan which
+  is automatically generated for each individual so that can remain fit.<br>
+  
+</p>
+> In the initial stage while using our application ,if the user in a new "User" then we provide them a form to fill,
+> which ask for different details like body type. We also ask for neck length ,waist lenght, height ,weight to calculate body fat
+## Different features provided in our application
+- Calorie tracking
+      The amount of calories intaken is calculated in daily basis
+- WorkOut Videos
+      we are providing both automated(recommended) and static workout videos to the user sot 
+
