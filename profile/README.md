@@ -12,8 +12,7 @@ https://drive.google.com/drive/folders/1QfT3E9KwKsglJRjXGhdZJQvDk_HRmJN3?usp=sha
 Develop a website/mobile application showcasing the digitalisation in healthcare and providing solutions for a healthy life.
 
 ### Solution
-<a href><img src="https://user-images.githubusercontent.com/60638195/168207876-9494793f-19d7-44d2-893e-16437dc2ca81.jpg"  height="300"></a>
-<a href> &emsp <img src="https://user-images.githubusercontent.com/60638195/168207866-8388655f-1e7d-41de-a352-9b68d9a6b2bb.jpg"  height="300"></a>
+
 ### Health is Wealth
 <p>
   It is always advised that prevention in better than cure .Body fitness is very much important ,since good fitness result in good 
@@ -21,6 +20,10 @@ Develop a website/mobile application showcasing the digitalisation in healthcare
   is automatically generated for each individual so that can remain fit.<br>
   
 </p>
+### signin/signup
+<a href><img src="https://user-images.githubusercontent.com/60638195/168207876-9494793f-19d7-44d2-893e-16437dc2ca81.jpg"  height="300"></a>
+<a href> &emsp <img style="left-padding:9px" src="https://user-images.githubusercontent.com/60638195/168207866-8388655f-1e7d-41de-a352-9b68d9a6b2bb.jpg"  height="300"></a>
+
 > In the initial stage while using our application ,if the user in a new "User" then we provide them a form to fill,
   <br>
   which ask for different details like body type. We also ask for neck length ,waist lenght, height ,weight to calculate body fat<br>
