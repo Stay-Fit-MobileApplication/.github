@@ -37,8 +37,8 @@ Develop a website/mobile application showcasing the digitalisation in healthcare
 - Chat with Trainer<br>
       Trainer Chat is provided
 - Credential Calculation<br>
-      1 BMR
-      2 Calorie correction
-      3 Body Fat
+      1 BMR<br>
+      2 Calorie correction<br>
+      3 Body Fat<br>
 
 
