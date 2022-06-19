@@ -26,8 +26,9 @@ Develop a website/mobile application showcasing the digitalisation in healthcare
   
   
 ## Different features provided in our application
-- Calorie tracking
+- Calorie tracking<br>
       The amount of calories intaken is calculated in daily basis
-- WorkOut Videos
+- WorkOut Videos<br>
       we are providing both automated(recommended) and static workout videos to the user sot 
+- 
 
