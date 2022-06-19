@@ -30,5 +30,15 @@ Develop a website/mobile application showcasing the digitalisation in healthcare
       The amount of calories intaken is calculated in daily basis
 - WorkOut Videos<br>
       we are providing both automated(recommended) and static workout videos to the user sot 
-- 
+- Friend Connect<br>
+      To remain within a particular goal we need motivation for this we provide an option to connect with nearby friends
+- AI Challenge<br>
+      We provide an option to challenge our friends with different events like pushup..
+- Chat with Trainer<br>
+      Trainer Chat is provided
+- Credential Calculation<br>
+      1 BMR
+      2 Calorie correction
+      3 Body Fat
+
 
