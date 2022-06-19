@@ -21,7 +21,10 @@ Develop a website/mobile application showcasing the digitalisation in healthcare
   
 </p>
 > In the initial stage while using our application ,if the user in a new "User" then we provide them a form to fill,
-> which ask for different details like body type. We also ask for neck length ,waist lenght, height ,weight to calculate body fat
+  <br>
+  which ask for different details like body type. We also ask for neck length ,waist lenght, height ,weight to calculate body fat
+  
+  
 ## Different features provided in our application
 - Calorie tracking
       The amount of calories intaken is calculated in daily basis
