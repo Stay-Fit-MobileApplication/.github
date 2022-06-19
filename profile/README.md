@@ -1,6 +1,13 @@
 ## **STAY-FIT**
 
 **STAY-FIT** is a mobile application developed on **flutter**.
+
+<h2>DISCLAIMER</h2>
+<p>Install the app from <a href="https://drive.google.com/drive/folders/1set7N8C4f0nkp-YmVaCyqKnPzHccoExB?usp=sharing"> here</a><br>
+  <b>First allow all permission from the settings and then launch the app</b>
+</p>
+
+
 <br><a href="https://github.com/Stay-Fit-MobileApplication/STAY-FIT"> App Source Code</a><br>
 <a href="https://github.com/Stay-Fit-MobileApplication/backend"> Api Source Code</a><br>
 
