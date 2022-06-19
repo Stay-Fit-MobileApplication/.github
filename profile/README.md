@@ -20,8 +20,8 @@ Develop a website/mobile application showcasing the digitalisation in healthcare
   is automatically generated for each individual so that can remain fit.<br>
   
 </p>
-### signin/signup <br>
-<a href><img src="https://user-images.githubusercontent.com/60638195/168207876-9494793f-19d7-44d2-893e-16437dc2ca81.jpg"  height="300"></a>
+### signin/signup 
+<br><a href><img src="https://user-images.githubusercontent.com/60638195/168207876-9494793f-19d7-44d2-893e-16437dc2ca81.jpg"  height="300"></a>
 <a href><img style="left-padding:9px" src="https://user-images.githubusercontent.com/60638195/168207866-8388655f-1e7d-41de-a352-9b68d9a6b2bb.jpg"  height="300"></a>
 
 > In the initial stage while using our application ,if the user in a new "User" then we provide them a form to fill,
