@@ -25,9 +25,16 @@ Develop a website/mobile application showcasing the digitalisation in healthcare
 <a href><img style="left-padding:9px" src="https://user-images.githubusercontent.com/60638195/168207866-8388655f-1e7d-41de-a352-9b68d9a6b2bb.jpg"  height="300"></a>
 
 > In the initial stage while using our application ,if the user in a new "User" then we provide them a form to fill,
-  <br>
   which ask for different details like body type. We also ask for neck length ,waist lenght, height ,weight to calculate body fat<br>
+ <a href>
+  <img src="https://user-images.githubusercontent.com/60638195/174469256-450a34ee-3899-42f7-be06-9bc9d8f4836b.jpg"  height="300">
+  </a>
+  <a href>
+  <img "left-padding:9px" src="https://user-images.githubusercontent.com/60638195/174469268-ba3ef79f-8f02-46ed-87a3-a8bd8fc4048f.jpg"  height="300">
+  </a>
  
+<br>
+
   
 ## Different features provided in our application
 - Calorie tracking<br>
